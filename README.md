@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **info@esux.es**
 
-- 📄 Know about my experiences <a href="(https://www.notion.so/Stilyana-Konstantinova-Stoyanova-58541825f1614fb290b6a5eb2634d4bc">here</a>
+- 📄 Know about my experiences <a href="https://www.notion.so/Stilyana-Konstantinova-Stoyanova-58541825f1614fb290b6a5eb2634d4bc">here</a>
 
 - ⚡ Fun fact **I need to talk to somebody to resolve 80% of my code errors**
 <br/>
