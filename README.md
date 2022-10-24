@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stilyana (Estela is also valid) </h1>
 <p align="center">
-<img src="https://github.com/StilyanaS/images/blob/main/coding-girl.gif" align="center" width="40%"/></p>
+<img src="https://github.com/StilyanaS/images/blob/main/coding-girl.gif" align="center" width="60%"/></p>
 </br>
 <h3 align="center"><a><img style="margin-bottom: -35px; margin-left: 10px;height: 30px;" src="https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&text=false"/></a> Lover</h3>
 </br>
