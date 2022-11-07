@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stilyana (Estela is also valid) </h1>
+<h1 align="center">Hi 👋, I'm Stilyana || Estela </h1>
 <p align="center">
 <img src="https://github.com/StilyanaS/images/blob/main/coding-girl.gif" align="center" width="60%"/></p>
 </br>
