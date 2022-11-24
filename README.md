@@ -22,12 +22,11 @@
 
 - ⚡ Fun fact **I need to talk to somebody to resolve 80% of my code errors**
 <br/>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=stilyanas&show_icons=true&&theme=dracula" alt="stilyanas" /></p>
-
 
  [![@stilyanas's Holopin board](https://holopin.me/stilyanas)](https://holopin.io/@stilyanas)
  
- 
+ <br/>
+ <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=stilyanas&show_icons=true&&theme=dracula" alt="stilyanas" /></p>
 <br/>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stilyanas" alt="stilyanas" /></p>
 <h3 align="center">Connect with me:</h3>
