@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React, Bootstrap, Tailwind, Sass and SEO topics**
 
-- 🌱 I’m currently learning **Angular, PHP, Symfony**
+- 🌱 I’m currently learning **Angular, PHP, Laravel**
 
 - 📫 How to reach me **info@esux.es**
 
